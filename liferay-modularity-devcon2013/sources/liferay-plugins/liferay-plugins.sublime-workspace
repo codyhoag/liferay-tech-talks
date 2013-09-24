@@ -1,0 +1,856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pull_req",
+				"pull_request_details"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "portlets/sample-metrics-ui-portlet/build.xml",
+			"settings":
+			{
+				"buffer_size": 178,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "portlets/sample-metrics-ui-portlet/docroot/WEB-INF/src/samplemetricsui/SampleMetricsUIApplication.java",
+			"settings":
+			{
+				"buffer_size": 376,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "portlets/sample-metrics-portlet/build.xml",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/Ant.sublime-build",
+	"command_palette":
+	{
+		"height": 33.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"PackageC",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Blam",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package COntrol:Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-metrics-core-shared/src/com/liferay/metrics/internal/manager/MetricsProviderManager.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-jvm-metrics-shared/src/com/liferay/metrics/jvm/AbstractMemoryMetric.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-jvm-metrics-shared/src/com/liferay/metrics/jvm/HeapMemoryUsageMetric.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-jvm-metrics-shared/src/com/liferay/metrics/jvm/TotalMemoryUsageMetric.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-metrics-core-shared/bnd.bnd",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-metrics-core-shared/src/com/liferay/metrics/api/model/MetricsProvider.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-metrics-core-shared/src/com/liferay/metrics/config/MetricsConfigCommand.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-metrics-core-shared/src/com/liferay/metrics/api/model/BaseMetric.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-metrics-core-shared/src/com/liferay/metrics/api/model/Metric.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-metrics-core-shared/build.xml",
+		"/home/migue/.config/sublime-text-3/Packages/User/ant.sublime-build",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-impl/src/com/liferay/portal/cache/CacheRegistryImpl.java",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-service/src/com/liferay/portal/kernel/cache/CacheRegistry.java",
+		"/home/migue/.config/sublime-text-3/Packages/Git/Git.sublime-settings",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/git-commit-plugins",
+		"/home/migue/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-service/src/com/liferay/portal/kernel/log/LogFactoryUtil.java",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-service/src/com/liferay/portal/kernel/security/pacl/DoPrivileged.java",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/osgi/bootstrap/src/com/liferay/osgi/bootstrap/FrameworkPropsKeys.java",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/osgi/bootstrap/bnd.bnd",
+		"/home/migue/Desktop/Update-11-09-2013.sql",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/portal/render_portlet.jsp",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/bundles/tomcat-7.0.40/logs/catalina.out",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/build.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/tools/jrebel/lportal-rebel.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/app.server.properties",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-service/build.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/build-common-java.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/build.properties",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/tools/jrebel/ext-rebel.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/root-rebel.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/tools/jrebel/rebel-for-root-webapp.xml",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2013-08-03-codemotion-2013-introduccin-a-akka.md",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2013-08-04-introduciendo-el-concepto-de-typeclasses-en-scala-i.md",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2013-08-04-introducción-rápida-a-las-typeclasses-en-scala-i.md",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2013-08-04-un-vistazo-a-las-typeclasses-en-scala.md",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2012-02-20-scala-implicits-i.html",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2011-06-21-aspectj-y-scala-i.html",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2012-04-14-jvm-fundamentals.md",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2013-05-20-algo-que-leer.md",
+		"/home/migue/development/sourcecode/migue.github.com/_posts/2013-08-02-codemotion-2013-introduccin-a-akka.md",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/bundles/tomcat-7.0.40/lib/ext/rebel-for-lib-ext.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/bundles/tomcat-7.0.40/webapps/ROOT/WEB-INF/classes/rebel-for-root-webapp.xml",
+		"/home/migue/.cache/.fr-tygV7J/WEB-INF/portlet.xml",
+		"/tmp/arkadiko/src/core/com/liferay/arkadiko/bean/AKBeanPostProcessor.java",
+		"/tmp/arkadiko/src/core/com/liferay/arkadiko/bean/AKBeansException.java",
+		"/tmp/arkadiko/src/osgi/com/liferay/arkadiko/osgi/internal/ServiceTrackerInvocationHandler.java",
+		"/tmp/arkadiko/src/core/com/liferay/arkadiko/bean/AKBeanDefinition.java",
+		"/tmp/arkadiko/src/osgi/com/liferay/arkadiko/osgi/OSGiFrameworkFactory.java",
+		"/tmp/arkadiko/src/osgi/com/liferay/arkadiko/osgi/OSGiServiceRegistry.java",
+		"/tmp/arkadiko/src/sr/com/liferay/arkadiko/sr/ServiceRegistry.java",
+		"/tmp/arkadiko/examples/arkadiko-spring.xml",
+		"/media/share/Temp/create-sql-server.sql",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-impl/src/com/liferay/portal/dao/orm/common/SQLTransformer.java",
+		"/media/share/Temp/create-sybase.sql",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/sql/create/create-sybase.sql",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-impl/src/com/liferay/portlet/myplaces/action/ViewAction.java",
+		"/media/share/Temp/liferay_master_demo.sql",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/WEB-INF/struts-config.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/WEB-INF/tiles-defs.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/portlet/my_sites/view.jsp",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/CONTRIBUTING.markdown",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-impl/classes/com/liferay/portal/deploy/dependencies/wsadmin.py",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/sample-metrics-portlet/docroot/view.ftl",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/sample-metrics-portlet/docroot/js/main.js",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/sample-metrics-portlet/docroot/script.ftl",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/aui/charts/charts.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/aui/charts-base/charts-base.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/modules.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/address.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/app_view_move.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/app_view_folders.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/asset_categories_selector.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/asset_tags_selector.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/aui_lang.jsp",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/icon.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/inline_editor_base.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/language.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/layout_column.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/layout_exporter.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-web/docroot/html/js/liferay/list_view.js",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/portal-impl/src/com/liferay/portal/util/MinifierUtil.java",
+		"/home/migue/osgi-fully-working/osgi/modules/module-admin-portlet/docroot/js/main.js",
+		"/home/migue/osgi-fully-working/osgi/modules/module-admin-portlet/docroot/script.ftl",
+		"/home/migue/osgi-fully-working/osgi/modules/module-admin-portlet/docroot/bundle_action.ftl",
+		"/home/migue/osgi-fully-working/osgi/modules/module-admin-portlet/docroot/init.ftl",
+		"/home/migue/osgi-fully-working/osgi/modules/module-admin-portlet/docroot/view.ftl",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/wysiwyg-portlet/build.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/wysiwyg-portlet/docroot/WEB-INF/liferay-display.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/wysiwyg-portlet/docroot/WEB-INF/liferay-plugin-package.properties",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/wysiwyg-portlet/docroot/WEB-INF/liferay-portlet.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/wysiwyg-portlet/docroot/WEB-INF/portlet.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/wysiwyg-portlet/docroot/view.jsp",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/wysiwyg-portlet/docroot/configuration.jsp",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/portlets/wysiwyg-portlet/docroot/init.jsp",
+		"/home/migue/development/sourcecode/liferay/liferay-portal/portal/build-common.xml",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-gogo-shell-commands-shared/src/com/liferay/gogo/commands/user/ListUsersCommand.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-gogo-shell-commands-shared/src/com/liferay/gogo/commands/user/GetUserInfoCommand.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-gogo-commands-shared/src/com/liferay/gogo/commands/user/internal/AbstractUserManagementCommand.java",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-gogo-commands-shared/src/com/liferay/gogo/commands/user/GetUserInfoCommand.java",
+		"/home/migue/Desktop/issues",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-gogo-commands-shared/bnd.bnd",
+		"/home/migue/development/sourcecode/liferay/liferay-plugins/shared/sample-gogo-commands-shared/ivy.xml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/provisioning.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/provisioning/tasks/main.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/provisioning",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/group_vars/local",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/site.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/sqldb/tasks/main.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/group_vars/provisioning",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/group_vars/osbservers",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/hosts",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/provisioning/main.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/liferay/tasks/main.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/rolling_update.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/liferay/templates/portal-ext.properties.j2",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/group_vars/sqlservers",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/group_vars/all",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/group_vars/nosqlservers",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/common/tasks/main.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/liferay/templates/setenv.sh.j2",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/nosqldb/tasks/main.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/nosqldb/handlers/main.yml",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/README.md",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/group_vars/webservers",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/common/files/epel.repo",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/common/files/datastax.repo",
+		"/home/migue/development/sourcecode/liferay/cloud-services-deployment/roles/sqldb/handlers/main.yml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.xml",
+			"*.md",
+			"*.js",
+			"*.ftl",
+			"*.js",
+			"*.ftl",
+			"*.js",
+			"*.*",
+			"*.ftl",
+			"*.*",
+			"*.xml",
+			"*.*",
+			"*.xml",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"git",
+			"createDate",
+			"STRING",
+			"invokeRender",
+			"invokeRender(",
+			"Context StandardEngine",
+			"Rendering the view",
+			"Dispatching",
+			"invokerPortlet",
+			"var",
+			"<else",
+			"<val",
+			"<available",
+			"isset",
+			"\" \"",
+			"<eqausl",
+			"pathconvert",
+			"<contains",
+			"contains text",
+			"contains",
+			"concat",
+			"concant",
+			"jrebel",
+			"exis",
+			"<copy",
+			"portal-service",
+			"app.server.tomcat.lib.endorsed.dir",
+			"lib/ext",
+			"&",
+			"saving",
+			"interwiki",
+			"linknode;",
+			"./",
+			"l.creole",
+			"inknode;",
+			"wikipedia",
+			"\\{   \\}",
+			"{   }",
+			"new\\(\\)",
+			"new() ",
+			"import com.liferay.portal.parsers.creole.ast.link.interwiki.",
+			",",
+			" ",
+			"  | ",
+			"'",
+			"> ",
+			"getServiceBean(",
+			"_JPQL_NOT_EQUALS",
+			"_HQL_NOT_EQUALS",
+			"_replaceNotEqualsBlankStringComparison",
+			"_replaceLike",
+			"portlet.my_sites.view",
+			"JournalArticle",
+			"master-demo",
+			"debugger",
+			"aui-io-request",
+			"aio-io-request",
+			"base",
+			"portletbase",
+			"augments",
+			"ModuleAdmin.init",
+			"ModuleAdmin",
+			"Liferay.ModuleAdmin",
+			"ModuleAdmin",
+			"io.request(",
+			"A.io.request(",
+			"ModuleAdmin",
+			"serviceURL",
+			"_serviceURL",
+			"setBundleStartLevel",
+			"renderRequest",
+			"renderResponse",
+			"themeDisplay",
+			"renderResponse",
+			"portletURL",
+			"liferay_portlet",
+			"liferay_portlet[",
+			"roles:",
+			"mysql_port",
+			"port",
+			"selinux",
+			"selinux:",
+			"selinux",
+			"SELinux",
+			"item",
+			"\"",
+			"getBundleContext(",
+			" getBundleContext(",
+			"local loader",
+			"ocal loader",
+			"com.liferay",
+			",",
+			".log",
+			"com.liferay.portal.kernel",
+			"com.liferay.portal.k",
+			"com.liferay.portal.kernel.log",
+			"com.liferay.portal.kernel",
+			"kernel",
+			"com.liferay.portal.kernel",
+			"com.liferay.portal.kernel.util",
+			"com.liferay.portal",
+			"com.liferay.portal.kernel",
+			".log",
+			"glassfish",
+			"jasper",
+			"import ",
+			"jasper",
+			"org.apache.jasper.runtime",
+			"MVCPortlet",
+			"filter",
+			"com.liferay.util.bridges",
+			"bundle",
+			"test-unit",
+			"file-name",
+			"http://www.oracle.com/webfolder/technetwork/jsc/",
+			"http://www.oracle.com/webfolder/technetwork/",
+			"src/javax/servlet/jsp/resources/",
+			"version",
+			"http://www.oracle.com/webfolder/technetwork/jsc/xml/ns/j2ee/",
+			"\" />",
+			"<include name=\"",
+			"class",
+			"plugin.classpath",
+			"lib.classpath",
+			"plugin.c",
+			"compile-scala",
+			"plugin.classpath",
+			"lib.classpath"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"LONGTEXT",
+			"%26",
+			"",
+			".creole",
+			"",
+			"\\n",
+			"",
+			"\\r\\n",
+			"\\n",
+			"",
+			"${validation.resources.url}/",
+			"${validation.resources.folder}/",
+			"${validation.resources.folder}",
+			"http://www.oracle.com/webfolder/technetwork/jsc/xml/ns/javaee/",
+			",",
+			"",
+			"1.4.11",
+			"1.5"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "portlets/sample-metrics-ui-portlet/build.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 178,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "portlets/sample-metrics-ui-portlet/docroot/WEB-INF/src/samplemetricsui/SampleMetricsUIApplication.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "portlets/sample-metrics-portlet/build.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								192
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"project": "liferay-plugins.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"metricsma",
+				"shared/sample-metrics-core-shared/src/com/liferay/metrics/internal/manager/MetricsProviderManager.java"
+			],
+			[
+				"metrics",
+				"shared/sample-metrics-core-shared/src/com/liferay/metrics/api/model/MetricsProvider.java"
+			],
+			[
+				"cacheregistry",
+				"portal-service/src/com/liferay/portal/kernel/cache/CacheRegistry.java"
+			],
+			[
+				"git-comm",
+				"git-commit-plugins"
+			],
+			[
+				"render_portlet.jsp",
+				"portal-web/docroot/html/portal/render_portlet.jsp"
+			],
+			[
+				"app.server",
+				"app.server.properties"
+			],
+			[
+				"build.pr",
+				"build.properties"
+			],
+			[
+				"build-common-java",
+				"build-common-java.xml"
+			],
+			[
+				"portal-service/build.xml",
+				"portal-service/build.xml"
+			],
+			[
+				"app.ser",
+				"app.server.properties"
+			],
+			[
+				"root-re",
+				"root-rebel.xml"
+			],
+			[
+				"rebel.f",
+				"tools/jrebel/rebel-for-root-webapp.xml"
+			],
+			[
+				"build.xml",
+				"build.xml"
+			],
+			[
+				"create-sql-server.sql",
+				"sql/create/create-sql-server.sql"
+			],
+			[
+				"sqltransformer",
+				"portal-impl/src/com/liferay/portal/dao/orm/common/SQLTransformer.java"
+			],
+			[
+				"create-s",
+				"sql/create/create-sybase.sql"
+			],
+			[
+				"myplaces/",
+				"portal-impl/src/com/liferay/portlet/myplaces/action/ViewAction.java"
+			],
+			[
+				"portlet/my_sites/view.jsp",
+				"portal-web/docroot/html/portlet/my_sites/view.jsp"
+			],
+			[
+				"tiles-defs.xml",
+				"portal-web/docroot/WEB-INF/tiles-defs.xml"
+			],
+			[
+				"struts-cnfig.xml",
+				"portal-web/docroot/WEB-INF/struts-config.xml"
+			],
+			[
+				"sybase.sql",
+				"sql/create/create-sybase.sql"
+			],
+			[
+				"wsadmin",
+				"portal-impl/classes/com/liferay/portal/deploy/dependencies/wsadmin.py"
+			],
+			[
+				"modules.js",
+				"portal-web/docroot/html/js/liferay/modules.js"
+			],
+			[
+				"minifierutil",
+				"portal-impl/src/com/liferay/portal/util/MinifierUtil.java"
+			],
+			[
+				"rtlet",
+				"wysiwyg-portlet/docroot/WEB-INF/portlet.xml"
+			],
+			[
+				"main.yml",
+				"ansible-examples/lamp_haproxy/roles/db/tasks/main.yml"
+			],
+			[
+				"site.",
+				"ansible-examples/lamp_haproxy/site.yml"
+			],
+			[
+				"module.java",
+				"jboss-modules/src/main/java/org/jboss/modules/Module.java"
+			],
+			[
+				"moduleclassloader.java",
+				"jboss-modules/src/main/java/org/jboss/modules/ModuleClassLoader.java"
+			],
+			[
+				"wyswyg-portlet/liferay-port",
+				"liferay-plugins/portlets/wysiwyg-portlet/docroot/WEB-INF/liferay-portlet.xml"
+			],
+			[
+				"chat-portlet/liferay-portl",
+				"liferay-plugins/portlets/chat-portlet/docroot/WEB-INF/liferay-portlet.xml"
+			],
+			[
+				"ivy-settin",
+				"liferay-plugins/ivy-settings.xml"
+			],
+			[
+				"build-common-plugin.xml",
+				"build-common-plugin.xml"
+			],
+			[
+				"build-common-osgi",
+				"build-common-osgi-plugin.xml"
+			],
+			[
+				"build-common-sh",
+				"shared/build-common-shared.xml"
+			],
+			[
+				"build-common.xml",
+				"build-common.xml"
+			],
+			[
+				"portal.propert",
+				"osgi-fully-working/portal-impl/src/portal.properties"
+			],
+			[
+				"main.js",
+				"docroot/js/main.js"
+			],
+			[
+				"modulesadminutil",
+				"docroot/WEB-INF/src/com/liferay/modulesadmin/util/ModulesAdminUtil.java"
+			],
+			[
+				"ivy",
+				"ivy.xml"
+			],
+			[
+				"modulesadminutil.java",
+				"portlets/modules-admin-portlet/docroot/WEB-INF/src/com/liferay/modulesadmin/util/ModulesAdminUtil.java"
+			],
+			[
+				"modulesadminportl",
+				"portlets/modules-admin-portlet/docroot/WEB-INF/src/com/liferay/modulesadmin/portlet/ModulesAdminPortlet.java"
+			],
+			[
+				"modulesadminportlet.java",
+				"portlets/modules-admin-portlet/docroot/WEB-INF/src/com/liferay/modulesadmin/portlet/ModulesAdminPortlet.java"
+			],
+			[
+				"build-common-osgi-plugin.xml",
+				"build-common-osgi-plugin.xml"
+			],
+			[
+				"build.properties",
+				"build.properties"
+			],
+			[
+				"build.migue",
+				"build.migue.properties"
+			],
+			[
+				"build-common-osgiu",
+				"build-common-osgi-plugin.xml"
+			],
+			[
+				"build-common-ivy.xml",
+				"build-common-ivy.xml"
+			],
+			[
+				"ivy-settings.xml",
+				"liferay-plugins/ivy-settings.xml"
+			],
+			[
+				"ivy-settings",
+				"liferay-plugins/ivy-settings.xml"
+			],
+			[
+				"ivy.xml",
+				"liferay-plugins/ivy.xml"
+			],
+			[
+				"pluginenviro",
+				"portal/portal-impl/src/com/liferay/portal/tools/PluginsEnvironmentBuilder.java"
+			],
+			[
+				"build-common-osgi-pl",
+				"build-common-osgi-plugin.xml"
+			],
+			[
+				"versions.xml",
+				"portal/lib/versions.xml"
+			],
+			[
+				"plginsenviron",
+				"portal/portal-impl/src/com/liferay/portal/tools/PluginsEnvironmentBuilder.java"
+			],
+			[
+				"build.p",
+				"liferay-plugins/build.properties"
+			],
+			[
+				"build-common-osgi.xml",
+				"liferay-plugins/build-common-osgi-plugin.xml"
+			],
+			[
+				"ivy-settingsxml",
+				"liferay-plugins/ivy-settings.xml"
+			],
+			[
+				"build-common-",
+				"liferay-plugins/build-common-ivy.xml"
+			],
+			[
+				"build-common-iv",
+				"liferay-plugins/build-common-ivy.xml"
+			],
+			[
+				"build-common-i",
+				"build-common-ivy.xml"
+			],
+			[
+				"ivy.",
+				"ivy.xml"
+			],
+			[
+				"bundleservletcontexttest",
+				"shared/http-service-shared/test/unit/com/liferay/httpservice/internal/servlet/BundleServletContextTest.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 872.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
